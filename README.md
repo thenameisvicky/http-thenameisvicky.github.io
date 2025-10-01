@@ -1,2 +1,2 @@
-# http-thenameisvicky.github.io-
+# thenameisvicky.github.io
 A
