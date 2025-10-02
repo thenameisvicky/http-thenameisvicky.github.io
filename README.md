@@ -1,1 +1,2 @@
-# thenameisvicky.github.io __Vigneshwaran B SDE since 2025__
+# thenameisvicky.github.io
+This is Vicky
